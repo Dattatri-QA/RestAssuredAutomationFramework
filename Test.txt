@@ -1,0 +1,39 @@
+[INFO ] 2026-02-01 22:22:17.458 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:22:19.273 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:22:21.006 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:22:22.742 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:22:24.459 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:22:26.329 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:22:28.691 [main] RestAssuredAutomationFramework - Create user excuted UserEndPoints
+[INFO ] 2026-02-01 22:22:30.607 [main] RestAssuredAutomationFramework - Get user Data UserEndPoints
+[INFO ] 2026-02-01 22:22:34.445 [main] RestAssuredAutomationFramework - Update user Data UserEndPoints
+[INFO ] 2026-02-01 22:22:36.364 [main] RestAssuredAutomationFramework - Deleted user Data UserEndPoints
+[INFO ] 2026-02-01 22:31:56.045 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:31:57.977 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:31:59.892 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:32:02.332 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:32:04.693 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:32:06.771 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:32:09.022 [main] RestAssuredAutomationFramework - Create user excuted UserEndPoints
+[INFO ] 2026-02-01 22:32:11.256 [main] RestAssuredAutomationFramework - Get user Data UserEndPoints
+[INFO ] 2026-02-01 22:32:15.091 [main] RestAssuredAutomationFramework - Update user Data UserEndPoints
+[INFO ] 2026-02-01 22:32:37.816 [main] RestAssuredAutomationFramework - Deleted user Data UserEndPoints
+[INFO ] 2026-02-01 22:42:40.002 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:42:41.813 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:42:43.429 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:42:45.487 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:42:47.414 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:42:49.005 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:42:50.976 [main] RestAssuredAutomationFramework - Create user excuted UserEndPoints
+[INFO ] 2026-02-01 22:43:14.163 [main] RestAssuredAutomationFramework - Get user Data UserEndPoints
+[INFO ] 2026-02-01 22:43:17.786 [main] RestAssuredAutomationFramework - Update user Data UserEndPoints
+[INFO ] 2026-02-01 22:43:47.331 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:43:49.661 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:43:51.729 [main] RestAssuredAutomationFramework - testCreateUser user excuted
+[INFO ] 2026-02-01 22:43:53.969 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:44:16.696 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:44:18.448 [main] RestAssuredAutomationFramework - dataProvider user excuted
+[INFO ] 2026-02-01 22:44:20.205 [main] RestAssuredAutomationFramework - Create user excuted UserEndPoints
+[INFO ] 2026-02-01 22:44:22.320 [main] RestAssuredAutomationFramework - Get user Data UserEndPoints
+[INFO ] 2026-02-01 22:44:26.128 [main] RestAssuredAutomationFramework - Update user Data UserEndPoints
+[INFO ] 2026-02-01 22:44:28.209 [main] RestAssuredAutomationFramework - Deleted user Data UserEndPoints
